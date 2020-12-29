@@ -15,7 +15,7 @@ namespace Project_Cashier
         public Form1()
         {
             InitializeComponent();
-            Console.WriteLine("hi");
+            Console.WriteLine("hii");
         }
     }
 }
