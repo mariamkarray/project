@@ -17,7 +17,8 @@ namespace Project_Cashier
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-            Console.WriteLine("hi");
+            Console.WriteLine("");
+
         }
     }
 }
